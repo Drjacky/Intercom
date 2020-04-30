@@ -28,6 +28,8 @@
  
  1. Go to test folder and run each appropriate test cases.
  
+ ![Screenshot](https://raw.githubusercontent.com/Drjacky/Intercom/master/output.png)
+ 
  ### License
  ```
     MIT License
