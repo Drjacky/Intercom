@@ -1,3 +1,5 @@
+## Calculate the Great Circle Distance By Haversine
+
 #### The app has following packages:
 
  1. **dto**: Models to hold the data.
@@ -11,7 +13,7 @@
  1. IntelliJ IDEA 2019.2.2 from [here](https://www.jetbrains.com/idea/download/)
  2. Run `main.AppKt` from top right corner
  
- ### Installation and run by IDE
+ ### Installation and run by command
   
   1. IntelliJ IDEA 2019.2.2 from [here](https://www.jetbrains.com/idea/download/)
   2. Rebuild the project
